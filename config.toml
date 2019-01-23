@@ -1,5 +1,5 @@
 baseurl = "https://investastuces.github.io/"
-title = "Invest' Astuces"
+title = "Invest A$tuc€s"
 languageCode = "en-fr"
 paginate = "10" # Number of posts per page
 theme = "Mainroad"
@@ -14,14 +14,14 @@ publishDir = "../investastuces.github.io"
   avatar = "img/avatar.png"
 
 [Params]
-  subtitle = "Immobilier, bourse, simulateurs de crédits" # Subtitle of your site
+  subtitle = "Des astuces au service d'un investissement habile" # Subtitle of your site
   description = "John Doe's Personal blog about everything" # Description of your site
   opengraph = true
   twitter_cards = false
   readmore = false # Show "Read more" button in list if true
   authorbox = true
   post_navigation = true
-  postSections = ["post"]
+  postSections = ["post"] 
 
 [Params.sidebar]
   home = "right"   # Configure layout for home page
@@ -33,3 +33,16 @@ publishDir = "../investastuces.github.io"
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
   tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+
+[Params.widgets.social]
+  # Enable parts of social widget
+  facebook = "username"
+  twitter = "username"
+  instagram = "username"
+  linkedin = "username"
+  telegram = "username"
+  github = "username"
+  gitlab = "username"
+  bitbucket = "username"
+  email = "example@example.com"
+  google_plus = "profileid"
