@@ -8,6 +8,7 @@ categories:
 tags: []
 description: ''
 thumbnail: ''
+authorbox: false
 menu: 
   main:
     name: Bourse

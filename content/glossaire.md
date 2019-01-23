@@ -3,7 +3,9 @@ title: Glossaire
 date: 2019-01-22
 authorbox: false
 sidebar: false
-menu: main
+menu: 
+  main:
+    weight: 60
 ---
 
 - A
