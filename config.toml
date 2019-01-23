@@ -1,4 +1,4 @@
-baseurl = "https://investastuces.github.io"
+baseurl = "https://investastuces.github.io/"
 title = "Invest' Astuces"
 languageCode = "en-fr"
 paginate = "10" # Number of posts per page
