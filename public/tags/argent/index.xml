@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Argent on Universal</title>
+    <link>/tags/argent/</link>
+    <description>Recent content in Argent on Universal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 03 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/argent/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Go is for lovers</title>
+      <link>/blog/2019/first-article-placements/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019/first-article-placements/</guid>
+      <description>.image-left { display: block; margin-left: auto; margin-right: auto; float: right; }  Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.</description>
+    </item>
+    
+  </channel>
+</rss>
