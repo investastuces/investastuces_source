@@ -178,5 +178,5 @@ paginate = 10
 
 [params.recent_posts]
     enable = true
-    title = "Derniers postes"
+    title = "Derniers posts"
     subtitle = ""
