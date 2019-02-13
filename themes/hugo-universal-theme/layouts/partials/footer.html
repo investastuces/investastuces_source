@@ -1,3 +1,4 @@
+
 <footer id="footer">
     <div class="container">
 
@@ -73,7 +74,10 @@ _________________________________________________________ -->
     <div class="container">
         <div class="col-md-12">
             {{ if isset .Site.Params "copyright" }}
-            <p class="pull-left">{{ .Site.Params.copyright | safeHTML }}</p>
+<!--            <p class="pull-left">{{ .Site.Params.copyright | safeHTML }}</p>  -->
+		<p class="pull-left"> 
+		Copyright (c) 2019, Invest Astuces; all rights reserved. <a href="https://www.investastuces.com/mentions-legales">Mentions l&eacute;gales</a>
+		</p>
             {{ end }}
             <p class="pull-right">
               {{ i18n "templateBy" }} <a href="http://bootstrapious.com/free-templates">Bootstrapious</a>.
