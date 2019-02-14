@@ -1,5 +1,6 @@
 +++
 title = "Mentions legales"
+date = "2019-02-13"
 +++
 
 **Directeur de la Publication** : Greg
