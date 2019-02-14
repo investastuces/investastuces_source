@@ -98,7 +98,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "your@email.com"
+    email = "contact@investastuces.com"
 
     about_us = "<p>Invest Astuces: des astuces pour un investissement habile.</p>"
     copyright = "Copyright (c) 2019, Invest Astuces; all rights reserved."
