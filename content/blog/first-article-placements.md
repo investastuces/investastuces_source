@@ -2,8 +2,8 @@
 title = "Go is for lovers"
 date = "2019-01-03"
 tags = ["banques", "comptes", "argent"]
-categories = ["placements"]
-banner = "img/banners/banner-2.jpg"
+categories = ["finances-perso/personal-finance"]
+banner = "img/banners/Placements/Bocal renverse rempli de pieces.jpg"
 author = "Greg"
 
 +++

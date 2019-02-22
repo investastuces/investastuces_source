@@ -2,8 +2,8 @@
 title = "Hugo is for lovers"
 date = "2019-01-31"
 tags = ["investissement", "actions"]
-categories = ["bourse"]
-banner = "img/banners/banner-3.jpg"
+categories = ["bourse/stocks"]
+banner = "img/banners/Bourse/Bourse dans journal.jpg"
 author = "Greg"
 +++
 

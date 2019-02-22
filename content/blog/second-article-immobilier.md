@@ -2,8 +2,8 @@
 title = "Migrate from Jekyll"
 date = "2019-01-27"
 tags = ["appartements", "investissement locatif"]
-categories = ["immobilier"]
-banner = "img/banners/banner-5.jpg"
+categories = ["immobilier/real-estate"]
+banner = "img/banners/Immobilier/Couple recevant des clefs.jpg"
 author = "Greg"
 +++
 

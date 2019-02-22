@@ -2,8 +2,8 @@
 title = "Linked post"
 date = "2019-01-12"
 tags = ["frais de negociation"]
-categories = ["bourse"]
-banner = "img/banners/banner-4.jpg"
+categories = ["bourse/stocks"]
+banner = "img/banners/Bourse/Graphique bourse et homme avec smartphone.jpg"
 author = "Greg"
 +++
 

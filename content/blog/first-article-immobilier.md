@@ -2,8 +2,8 @@
 title = "Creating a new theme"
 date = "2019-01-10"
 tags = ["maisons", "prets", "TAEG"]
-categories = ["immobilier"]
-banner = "img/banners/banner-1.jpg"
+categories = ["immobilier/real-estate"]
+banner = "img/banners/Immobilier/Appartement en renovation.jpg"
 author = "Greg"
 +++
 
