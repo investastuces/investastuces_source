@@ -20,7 +20,7 @@
                 
             <div class="navbar-collapse collapse" id="navigation">
                 <ul class="nav navbar-nav navbar-right">
-                  {{ range .Site.Menus.main }}
+ <!--                 {{ range .Site.Menus.main }}
                   <li class="dropdown">
                     {{ if .HasChildren }}
                       <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ .Name }} <span class="caret"></span></a>
@@ -30,10 +30,30 @@
                       {{ end }}
                     </ul>
                     {{ else }}
-                    <a href="{{ .URL }}">{{ .Name }}</a>
+                      <a href="{{ .URL }}">{{ .Name }}</a> 
+ <a href="{{ .URL }}"><i class="fa fa-phone"></i> </a>
                     {{ end  }}
                   </li>
-                  {{ end }}
+                  {{ end }} -->
+                  <li class="dropdown">
+                   <a href="https://investastuces.com"><i class="fa fa-home fa-lg"></i> </a>
+                  </li>
+                  <li class="dropdown">
+                    <a href="https://investastuces.com/blog"><i class="fa fa-pencil fa-lg"></i>Blog </a>
+                  </li>
+                  <li class="dropdown">
+                    <a href="https://investastuces.com/simulateurs"><i class="fa fa-calculator fa-lg"></i>Simulateurs</a>
+                  </li>
+                   <li class="dropdown">
+                    <a href="https://investastuces.com/glossaire"><i class="fa fa-book fa-lg"></i>Glossaire</a>
+                  </li>
+                   <li class="dropdown">
+                    <a href="https://investastuces.com/a-propos"><i class="fa fa-info-circle fa-lg"></i>A propos</a>
+                  </li>
+                                     <li class="dropdown">
+                    <a href="https://investastuces.com/contact"><i class="fa fa-at fa-lg"></i>Contact</a>
+                  </li>
+
                 </ul>
             </div>
             <!--/.nav-collapse -->
