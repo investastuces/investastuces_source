@@ -8,10 +8,11 @@
 		<div class="col-md-12">
             <div class="row">
 		{{ end }}
-				<div class="col-md-4">
+				<div class="col-md-6">
                     <div class="box-simple">
                         <div class="icon">
-                            <i class="{{ .icon }}"></i>
+                          <img src="{{ .icon }}" alt="drawing" style="width:50px;"/> 
+           <!--                 <i class="{{ .icon }}"></i> -->
                         </div>
                         <h3>{{ $element.name }}</h3>
                         <p>{{ $element.description | markdownify }}</p>

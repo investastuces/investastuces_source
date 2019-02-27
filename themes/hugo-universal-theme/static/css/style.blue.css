@@ -1440,8 +1440,8 @@ fieldset[disabled] .btn-template-primary.active {
   margin-bottom: 40px;
 }
 .box-simple .icon {
-  color: #467fbf;
-  border-color: #467fbf;
+  color: #ffffff;
+  border-color: #ffffff;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
