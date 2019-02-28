@@ -1,5 +1,5 @@
 +++
-title = "Glossaire"
+title = "Glossaire / Glossary"
 description = "Glossaire"
 keywords = ["Glossaire"]
 +++
