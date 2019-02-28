@@ -1,5 +1,5 @@
 +++
-title = "A propos de nous"
+title = "A propos de nous / About us"
 +++
 
 # <a name="French">
@@ -78,7 +78,7 @@ To tell you the truth, perfecting of my English was not the main reason for our 
 
 When I arrived in the USA, I quickly realized that my skills in French law would be of utter uselessness in the USA. So I started to work as a truck driver and loader in large transportation companies. Even though these part-time and very irregular jobs allowed me to meet extraordinary people, they also left me plenty of free time. So I wondered what I could do with this new, more open schedule...
 
-About ten years ago, I began to take an interest in the various investments that exist, and I started buying magazines and books, and looking up investment tips (<i>astuces</i>, in French) online -- in short, understanding financial investments became a real passion for me. My wife and I ??made our first investment in real estate in 2011 (a new two-bedroom, or T2, apartment in Rennes using the French Scellier tax law), then a second in 2014 (an older studio apartment in Rennes). At the same time, as traditional banking and other life insurance investments were yielding us almost nothing, I started to get interested in the stock market. Having gotten various pieces of advice on stock investments, I decided to get into this complicated but exciting world in 2014.
+About ten years ago, I began to take an interest in the various investments that exist, and I started buying magazines and books, and looking up investment tips (<i>astuces</i>, in French) online -- in short, understanding financial investments became a real passion for me. My wife and I made our first investment in real estate in 2011 (a new two-bedroom, or T2, apartment in Rennes using the French Scellier tax law), then a second in 2014 (an older studio apartment in Rennes). At the same time, as traditional banking and other life insurance investments were yielding us almost nothing, I started to get interested in the stock market. Having gotten various pieces of advice on stock investments, I decided to get into this complicated but exciting world in 2014.
 
 #### What we observed :
 
