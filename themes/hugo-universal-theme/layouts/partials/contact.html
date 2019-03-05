@@ -9,10 +9,11 @@
 
                 {{ if isset .Site.Params "email" }}
 
-                <div class="heading">
+ <!--               <div class="heading">
                   <h3>{{ i18n "contactForm" }}</h3>
-                </div>
+                </div> -->
 
+<br> 
                 <div id="contact-message"></div>
                 
                 <form class="contact-form" method="POST" action="https://formspree.io/contact@investastuces.com">
@@ -22,26 +23,26 @@
                                     <div class="row">
                         <div class="col-sm-6">
                             <div class="form-group">
-                              <label for="name">{{ i18n "contactName" }}</label>
-                                <input type="text" class="form-control" name="name" required>
+                              <label for="name">Nom / name</label>
+                                <input type="text" name="name" class="form-control" required>
                             </div>
                         </div>
                         <div class="col-sm-6">
                             <div class="form-group">
-                                <label for="email">{{ i18n "contactMail" }}</label>
-                                <input type="email" class="form-control" name="email" required>
+                                <label for="email">Email</label>
+                                <input type="email" name="email" class="form-control" required>
                             </div>
                         </div>
                         <div class="col-sm-12">
                             <div class="form-group">
-                              <label for="message">{{ i18n "contactMessage" }}</label>
-                                <textarea class="form-control" name="message" required></textarea>
+                              <label for="message">Message</label>
+                                <textarea name="message" class="form-control" required></textarea>
                             </div>
                         </div>
 
                         <div class="col-sm-12 text-center">
-  <!--                        <button type="submit" class="btn btn-template-main"><i class="fa fa-envelope-o"></i>{{ i18n "contactSend" }}</button> -->
-                          <button type="submit">{{ i18n "contactSend" }}</button>
+                          <button type="submit" class="btn btn-template-main"><i class="fa fa-envelope-o"></i> Envoyer / Send!</button> 
+                        <!--  <button type="submit">{{ i18n "contactSend" }}</button> -->
                         </div>
                     </div>
                 </form>
