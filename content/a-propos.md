@@ -72,7 +72,7 @@ Bonne lecture et bonne simulation !!
 My name is Greg, I'm 38 years old and I live in [Milwaukee](https://www.visitmilwaukee.org/) in the USA with my wife Andrea and my daughter. Before leaving France, I worked as a public service lawyer in a challenging but very demanding position.
 As for Andrea, she is 36 years old and an American citizen, and she is a researcher in a large French research institution.  After months and months of seeing me in a permanent state of stress every day, Andrea had a thought: "what if we move to the USA for awhile?". Knowing that my English could use some improvement (it still does, but less so now!), I eventually came around to the idea of leaving.
 
-To tell you the truth, perfecting of my English was not the main reason for our departure -- in fact, as part of her research work Andrea had a great opportunity to leave. So we jumped at the opportunity and we do not regret anything, even if the expat life sometimes has its share of difficulties.
+To tell you the truth, perfecting my English was not the main reason for our departure -- in fact, as part of her research work Andrea had a great opportunity to leave. So we jumped at the opportunity and we do not regret anything, even if the expat life sometimes has its share of difficulties.
 
 #### So why the Invest Astuces blog?
 
