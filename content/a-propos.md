@@ -57,16 +57,18 @@ Le site est d&eacute;coup&eacute; en diff&eacute;rentes rubriques :
 
 - [Glossaire](https://investastuces.com/glossaire) : cette rubrique a vocation &agrave; contenir les termes techniques et financiers abord&eacute;s dans les articles. 
 
-# <a name="English">
-
-
 Nous esp&eacute;rons que les astuces et les outils pr&eacute;sents sur ce site vous permettront de faire des investissements plus habiles que ceux que nous avons pu faire et n'h&eacute;sitez pas &agrave; partager vos exp&eacute;riences.
 Rendez-vous &eacute;galement sur les pages [Twitter](http://twitter.com/investastuces), [Facebook](http://tfacebook.com/investastuces), et [Instagram](http://instagram.com/investastuces) d'Invest Astuces.
 
 Bonne lecture et bonne simulation !!
 
+#   <a name="English">
+
+<br>
+
 ***
 
+<br>
 
 <img src="/img/usa.png" alt="drawing" style="width:25px;"/> &nbsp; 
 My name is Greg, I'm 38 years old and I live in [Milwaukee](https://www.visitmilwaukee.org/) in the USA with my wife Andrea and my daughter. Before leaving France, I worked as a public service lawyer in a challenging but very demanding position.
