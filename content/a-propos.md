@@ -2,13 +2,12 @@
 title = "A propos de nous / About us"
 +++
 
-# <a name="French">
-
 <p style="text-align: center;" markdown = "1"> 
 <img src="/img/fr.png" alt="drawing" style="width:25px;"/> &nbsp; <a href="#French">Version fran&ccedil;aise</a>&nbsp; &nbsp; 
 <img src="/img/usa.png" alt="drawing" style="width:25px;"/> &nbsp; <a href="#English">English version</a>
 </p>
 
+# <a name="French"></a>
 
 <img src="/img/fr.png" alt="drawing" style="width:25px;"/> &nbsp; 
 Je m'appelle <b>Greg</b>, j'ai 38 ans et je vis actuellement &agrave; [Milwaukee](https://www.visitmilwaukee.org/) dans le Wisconsin aux Etats-Unis avec <b>Andrea</b> (mon &eacute;pouse) et ma fille. Avant de partir je travaillais en tant que juriste dans la fonction publique dans un poste &agrave; responsabilit&eacute;s passionnant, mais tr&egrave;s exigeant.
@@ -62,13 +61,13 @@ Rendez-vous &eacute;galement sur les pages [Twitter](http://twitter.com/investas
 
 Bonne lecture et bonne simulation !!
 
-#   <a name="English">
-
 <br>
 
 ***
 
 <br>
+
+#  <a name="English"></a>
 
 <img src="/img/usa.png" alt="drawing" style="width:25px;"/> &nbsp; 
 My name is Greg, I'm 38 years old and I live in [Milwaukee](https://www.visitmilwaukee.org/), Wisconsin, in the USA with my wife Andrea and my daughter. Before leaving France, I worked as a public service lawyer in a challenging but very demanding position.
