@@ -11,7 +11,7 @@ title = "A propos de nous / About us"
 
 
 <img src="/img/fr.png" alt="drawing" style="width:25px;"/> &nbsp; 
-Je m'appelle <b>Greg</b>, j'ai 38 ans et je vis actuellement &agrave; [Milwaukee](https://www.visitmilwaukee.org/) aux Etats-Unis avec <b>Andrea</b> (mon &eacute;pouse) et ma fille. Avant de partir je travaillais en tant que juriste dans la fonction publique dans un poste &agrave; responsabilit&eacute;s passionnant, mais tr&egrave;s exigeant.
+Je m'appelle <b>Greg</b>, j'ai 38 ans et je vis actuellement &agrave; [Milwaukee](https://www.visitmilwaukee.org/) dans le Wisconsin aux Etats-Unis avec <b>Andrea</b> (mon &eacute;pouse) et ma fille. Avant de partir je travaillais en tant que juriste dans la fonction publique dans un poste &agrave; responsabilit&eacute;s passionnant, mais tr&egrave;s exigeant.
 Quant &agrave; Andrea, elle a 36 ans, elle est de nationalit&eacute; am&eacute;ricaine et travaille dans le monde de la recherche dans un grand organisme fran&ccedil;ais. Andrea (ma fille est encore trop petite pour me faire des reproches...) qui en avait marre de me voir 10 min en soir&eacute;e et dans un &eacute;tat de stress permanent, m'a dit un jour "et si nous partions aux USA..." 
 
 Sachant que mon anglais &eacute;tait vraiment tr&egrave;s pourri (il l'est toujours, mais un tout petit moins!!), je me suis dit que finalement cela ne serait pas une si mauvaise id&eacute;e de partir. Pour vous dire la v&eacute;rit&eacute;, le perfectionnement de mon anglais n'a pas &eacute;t&eacute; la raison principale de notre d&eacute;part. En effet, dans le cadre de son travail de recherche, Andrea a eu une superbe opportunit&eacute; pour partir. Nous avons donc saut&eacute; sur l'occasion et nous ne regrettons rien, m&ecirc;me si la vie d'expat comporte son lot de difficult&eacute;s.
@@ -71,7 +71,7 @@ Bonne lecture et bonne simulation !!
 <br>
 
 <img src="/img/usa.png" alt="drawing" style="width:25px;"/> &nbsp; 
-My name is Greg, I'm 38 years old and I live in [Milwaukee](https://www.visitmilwaukee.org/) in the USA with my wife Andrea and my daughter. Before leaving France, I worked as a public service lawyer in a challenging but very demanding position.
+My name is Greg, I'm 38 years old and I live in [Milwaukee](https://www.visitmilwaukee.org/), Wisconsin, in the USA with my wife Andrea and my daughter. Before leaving France, I worked as a public service lawyer in a challenging but very demanding position.
 As for Andrea, she is 36 years old and an American citizen, and she is a researcher in a large French research institution.  After months and months of seeing me in a permanent state of stress every day, Andrea had a thought: "what if we move to the USA for awhile?". Knowing that my English could use some improvement (it still does, but less so now!), I eventually came around to the idea of leaving.
 
 To tell you the truth, perfecting my English was not the main reason for our departure -- in fact, as part of her research work Andrea had a great opportunity to leave. So we jumped at the opportunity and we do not regret anything, even if the expat life sometimes has its share of difficulties.
@@ -106,7 +106,7 @@ The site is divided into different sections:
 
 - [Blog](https://investastuces.com/blog): this section includes all articles written on the site and is divided into several categories (stock exchange, real estate ...). You also have a search engine and a list of tags to make it easier for you to find an article.
 
-- [Simulators](https://investastuces.com/simulateurs): the tools proposed in this section allow you to perform various financial calculations (calculation of the monthly payments of a credit, APR, TAEA, rental yield, borrowing capacity ...). Unlike simulators offered on other sites, you can export the results obtained in Excel format to integrate your results in your own simulations or spreadsheets.
+- [Simulators](https://investastuces.com/simulateurs): the tools proposed in this section allow you to perform various financial calculations (calculation of the monthly payments of a credit, APR, TAEA, rental yield, borrowing capacity ...). Unlike simulators offered on other sites, you can export the results obtained in Excel format to integrate your results into your own simulations or spreadsheets.
 
 - [Glossary](https://investastuces.com/glossaire): this section aims to contain the technical and financial terms covered in the articles.
 

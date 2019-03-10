@@ -1,19 +1,13 @@
 +++
 title = "Sitemap"
-date = 2019-02-25
+date = 2019-03-10
 +++
 
 
 - [Accueil / Homepage](https://investastuces.com)
 - [Blog](https://investastuces.com/blog)
     - bourse/stocks
-        - [Hugo is for lovers](https://investastuces.com/blog/first-article-bourse)
-        - [Linked post](https://investastuces.com/blog/second-article-bourse)
-    - finances-perso/personal-finance
-        - [Go is for lovers](https://investastuces.com/blog/first-article-placements)
-    - immobilier/real-estate
-        - [Creating a new theme](https://investastuces.com/blog/first-article-immobilier)
-        - [Migrate from Jekyll](https://investastuces.com/blog/second-article-immobilier)
+        - [Mes 10 règles d’or pour débuter en Bourse](https://investastuces.com/blog/10-regles-dor-pour-debuter-en-bourse)
 - [Simulateurs / Simulators](https://investastuces.com/simulateurs)
 - [Glossaire / Glossary](https://investastuces.com/glossaire)
 - [A propos / About](https://investastuces.com/a-propos)
