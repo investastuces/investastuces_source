@@ -57,7 +57,7 @@ Le site est d&eacute;coup&eacute; en diff&eacute;rentes rubriques :
 - [Glossaire](https://investastuces.com/glossaire) : cette rubrique a vocation &agrave; contenir les termes techniques et financiers abord&eacute;s dans les articles. 
 
 Nous esp&eacute;rons que les astuces et les outils pr&eacute;sents sur ce site vous permettront de faire des investissements plus habiles que ceux que nous avons pu faire et n'h&eacute;sitez pas &agrave; partager vos exp&eacute;riences.
-Rendez-vous &eacute;galement sur les pages [Twitter](http://twitter.com/investastuces), [Facebook](http://tfacebook.com/investastuces), et [Instagram](http://instagram.com/investastuces) d'Invest Astuces.
+Rendez-vous &eacute;galement sur les pages [Twitter](http://twitter.com/investastuces) et [Facebook](http://tfacebook.com/investastuces) d'Invest Astuces.
 
 Bonne lecture et bonne simulation !!
 
@@ -109,7 +109,7 @@ The site is divided into different sections:
 
 - [Glossary](https://investastuces.com/glossaire): this section aims to contain the technical and financial terms covered in the articles.
 
-We hope that the tips and tools on this site will allow you to make more clever investments -- feel free to share your experiences, and visit the Invest Astuces [Twitter](http://twitter.com/investastuces), [Facebook](http://tfacebook.com/investastuces), and [Instagram](http://instagram.com/investastuces) pages.
+We hope that the tips and tools on this site will allow you to make more clever investments -- feel free to share your experiences, and visit the Invest Astuces [Twitter](http://twitter.com/investastuces) and [Facebook](http://tfacebook.com/investastuces) pages.
 
 Enjoy!
 
