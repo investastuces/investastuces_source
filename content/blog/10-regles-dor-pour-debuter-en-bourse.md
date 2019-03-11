@@ -143,24 +143,21 @@ Privilégiez les courtiers en ligne spécialisés dans ce domaine. Vous ne payez
 Dans le calcul de la rentabilité ces frais ne sont pas à négliger (toute comme la taxe sur les transactions financières), car ils augmentent mécaniquement le coût d’une action que vous souhaitez acquérir ou vendre. Dans ce dernier cas, la plus-value éventuellement acquise peut être fortement réduite en cas de frais conséquents.
 
 
-<div class="row">
-  <div class="col-md-2" markdown="1">
-  <img src="/img/Investastuces-lightbulb-plural.png" align="center" style="width:100px;" hspace="10"/>
-  </div>
-  <div class="col-md-*" markdown="1">
-  <!-- ![Alt Text](../img/folder/blah.jpg) -->
-<b>Astuce n°1</b>:
+<table>
+<tr>
+</tr>
+<tr>
+<td> <img src="/img/Investastuces-lightbulb-plural.png" align="center" style="width:100px;" hspace="10"/>
+<td>  <b>Astuce n°1</b>:
 Si vous envisagez d’investir en Bourse dans un avenir plus ou moins proche, ouvrez dès à présent un PEA et un PEA-PME sans y mettre un centime, juste pour prendre date.
 En effet, seuls ces deux placements permettent une défiscalisation des plus-values si les fonds sont conservé sur les plans pendant 5 ans. Les dividendes versés sont également exonérés d’impôts. Néanmoins, tout retrait d’argent durant une période de 8 ans à compter de la création du PEA ou du PEA-PME entraîne la clôture du compte. Passé ce délai, il est possible de retirer sans clôturer le compte, mais plus aucun versement n’est possible.
+<br>
 <br>
 <b>Astuce n°2</b>:
 Si vous disposez déjà d’un PEA ou d’un compte-titres dans une autre banque, n’hésitez pas à le faire transférer chez le courtier en ligne de votre choix. En effet, il est fréquent que les frais de transfert soient couverts par les offres de bienvenue de ces courtiers. 
 Concernant le PEA et en fonction du courtier choisi, vous pourrez éventuellement conserver l’ancienneté de votre plan.
-  </div>
-</div>
-
-
-
+</tr>
+</table>
 
 <br>
 <br>

@@ -35,10 +35,10 @@ APRC refers to a specific calculation of [APR](#APR) adopted by the European Uni
 - **Arrhes**  
 Somme versée par un acheteur à un vendeur pour garantir son engagement lors de la conclusion d'un contrat. Si l'acheteur renonce par la suite à son acquisition, il abandonne ses arrhes. Si c'est le vendeur, il est tenu de reverser à l'acheteur le double du montant des arrhes.
 
-- **Assurance crédit**   
+- **Assurance crédit** <a name-"assurancecredit"></a>  
 Contrat (facultatif) souscrit afin de garantir au prêteur le remboursement du crédit en cas de chômage, de décès ou d'invalidité de l'emprunteur.
  
-- **Assurance emprunteur**  
+- **Assurance emprunteur** <a name-"assuranceemprunteur"></a>   
 Assurance temporaire, limitée à la durée du crédit, garantissant le remboursement de celui-ci en cas de décès. Le remboursement peut aussi être prévu en cas d'invalidité, d'incapacité, voire plus rarement de perte d'emploi.
  
 - **Avant-contrat**  
@@ -98,7 +98,7 @@ A down payment is a type of payment made in cash during the onset of the purchas
 ## F <a name="F"></a>
 
 
-- **Frais de dossier**  
+- **Frais de dossier** <a name="fraisdedossier"></a>  
 Frais d’étude et de mise en place d’un crédit immobilier.
 
 ## G <a name="G"></a>

@@ -8,6 +8,8 @@ date = 2019-03-10
 - [Blog](https://investastuces.com/blog)
     - bourse/stocks
         - [Mes 10 règles d’or pour débuter en Bourse](https://investastuces.com/blog/10-regles-dor-pour-debuter-en-bourse)
+    - immobilier/real-estate
+        - [Le TAEG : le précieux outil de comparaison des offres de crédit](https://investastuces.com/blog/taeg-precieux-outil-de-comparaison)
 - [Simulateurs / Simulators](https://investastuces.com/simulateurs)
 - [Glossaire / Glossary](https://investastuces.com/glossaire)
 - [A propos / About](https://investastuces.com/a-propos)
