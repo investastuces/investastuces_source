@@ -1,11 +1,15 @@
 
-th, td {
+.hoverTable{
+  width:100%;
+  border-collapse:collapse;
+}
+.hoverTable th, td {
   padding: 2px;
   text-align: left;
   border-bottom: 1px solid #ddd;
 }
-tr:hover {background-color: #f5f5f5;}
-tr:nth-child(even) {background-color: #f2f2f2;}
+.hoverTable tr:hover {background-color: #f5f5f5;}
+.hoverTable tr:nth-child(even) {background-color: #f2f2f2;}
 
 .clearfix:before,
 .clearfix:after,

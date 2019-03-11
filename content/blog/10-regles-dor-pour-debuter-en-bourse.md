@@ -141,9 +141,10 @@ Si les banques en ligne les plus connues sont particulièrement compétitive en 
 Privilégiez les courtiers en ligne spécialisés dans ce domaine. Vous ne payez aucun frais de tenu de compte et les frais de courtage sont particulièrement réduit (frais prélevés par les intermédiaires en Bourse lors de l'achat ou de la vente de titres boursiers).
 
 Dans le calcul de la rentabilité ces frais ne sont pas à négliger (toute comme la taxe sur les transactions financières), car ils augmentent mécaniquement le coût d’une action que vous souhaitez acquérir ou vendre. Dans ce dernier cas, la plus-value éventuellement acquise peut être fortement réduite en cas de frais conséquents.
+<br>
+<br>
 
-
-<table>
+<table class="hoverTable">
 <tr>
 </tr>
 <tr>

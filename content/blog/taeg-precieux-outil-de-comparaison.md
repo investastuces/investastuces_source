@@ -48,7 +48,7 @@ Prenons trois exemples pour illustrer nos propos:
 <br>
 <br>
 
-<table style="width:100%">
+<table class="hoverTable">
   <tr>
     <th></th>
     <th>Exemple 1</th> 
@@ -122,7 +122,7 @@ Ainsi, sauf à faire un calcul compliqué intégrant le capital emprunté, les i
 <br>
 <br>
 
-<table>
+<table class="hoverTable">
 <tr>
 </tr>
 <tr>
