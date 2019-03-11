@@ -11,17 +11,26 @@ keywords = ["Glossaire"]
 - **Abattement** <a name="abattement"></a> (<img src="/img/usa.png" alt="drawing" style="width:16px;"/>: [Deduction](#deduction))  
 Déduction pratiquée réduisant l'assiette d'un impôt (pour l'impôt sur le revenu, déduction faite sur des revenus catégoriels ou sur le revenu global).
 
-- **Acompte** <a name="acompte"></a> (immobilier)  
+- **Acompte** <a name="acompte"></a> (immobilier) (<img src="/img/usa.png" alt="drawing" style="width:16px;"/>: [Advance payment](#advancepayment))    
 Montant versé (environ 10 % du bien) par l'acquéreur lors de la signature de la promesse de vente et qui l'engage définitivement. Si la vente n'est pas menée à son terme ou si une condition suspensive est prévue, le vendeur peut récupérer cette somme.
 
 - **Acte de vente** (immobilier)   
 Contrat définitif par lequel l'acquéreur devient propriétaire du bien. Il est rédigé exclusivement par un notaire.
 
+- **Advance payment** <a name="advancepayment"></a> (<img src="/img/fr.png" alt="drawing" style="width:16px;"/>: [Acompte](#acompte))    
+An advance payment, or simply an advance, is the part of a contractually due sum that is paid or received in advance for goods or services, while the balance included in the invoice will only follow the delivery. For real estate in France, it is the amount paid (approximately 10% of the good) by the purchaser when signing the promise to sell, and which commits him definitively. If the sale is not completed or if a condition precedent is provided, the seller can recover this amount.
+
 - **Amortissements réputés différés**  
 Amortissements comptables immédiatement non déductibles dans certaines opérations de type location meublée professionnelle. Ils s'accumulent d'année en année et deviennent fiscalement déductibles lorsque les revenus nets de l'opération deviennent positifs.
 
-- **Apport personnel**  
+- **Apport personnel** <a name="apportpersonnel"></a> (<img src="/img/usa.png" alt="drawing" style="width:16px;"/>: [Down payment](#downpayment))    
 Sommes d'origine personnelle que l'acquéreur consent à utiliser pour le financement de son acquisition. Certains emprunts sont considérés comme un apport personnel (prêt à taux zéro, prêt [PEL](#PEL), ...).
+
+- **APR (Annual percentage rate)** <a name="APR"></a>  
+Annual percentage rate, or APR, is a way of measuring the full cost a lender charges per year for funds. Typically associated with mortgages, loans and credit cards, APR combines the total amount of interest payable and the cost of other fees and charges, averaged over the term of the loan and expressed as a percentage.
+
+- **APRC (Annual Percentage Rate of Charge)** <a name="APRC"></a> (<img src="/img/fr.png" alt="drawing" style="width:16px;"/>: [TAEG](#TAEG))   
+APRC refers to a specific calculation of [APR](#APR) adopted by the European Union in  [Directive 2014/17/UE](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32014L0017) in order to uniformly ensure its informational comparability of  throughout the EU, especially for real-estate loan or credit agreements for consumers.
 
 - **Arrhes**  
 Somme versée par un acheteur à un vendeur pour garantir son engagement lors de la conclusion d'un contrat. Si l'acheteur renonce par la suite à son acquisition, il abandonne ses arrhes. Si c'est le vendeur, il est tenu de reverser à l'acheteur le double du montant des arrhes.
@@ -77,6 +86,9 @@ Possibilité de reporter le remboursement du capital d'un crédit et de ne payer
 
 - **Dow Jones**  
 Indice de référence de la Bourse de New York. Il se décline en une multiplicité d'indices, le plus usité étant le « Dow Jones Industrial Average » (DJIA), composé des 30 premières valeurs industrielles de cette Bourse.
+
+- **Down payment** <a name="downpayment"></a> (<img src="/img/fr.png" alt="drawing" style="width:16px;"/>: [Apport personnel](#apportpersonnel))    
+A down payment is a type of payment made in cash during the onset of the purchase of an expensive good or service. The payment typically represents only a percentage of the full purchase price; For example, many homebuyers pay down payments equal to 5 to 25% of the total value of the home, and a bank or other financial institution covers the remainder of the costs through a mortgage loan.
 
 
 ## E <a name="E"></a>
@@ -191,7 +203,7 @@ Document réglementé par le droit bancaire et qui précise les obligations du p
 Structures qui permettent la gestion collective de fonds. Les fonds qui sont à leur disposition sont investis dans des valeurs mobilières. Ces valeurs mobilières donnent le même droit que des actions à son possesseur, c’est à dire qu’ils donnent une part du capital de la société émettrice. 
 
 - **Ordre de Bourse**  
-Les ordres de bourse sont des instructions communiquées par un investisseur ou par un intermédiaire financier (comme un courtier) qui, en fonction des informations reçues et de la situation du compte du client, procède à l’achat, ou à la vente d’un actif sur une place boursière. Un ordre de bourse doit comporter un certain nombre d'informations nécessaires et obligatoires à sa bonne exécution (le sens de l'opération, le nom de la valeur ou le code ISIN de la valeur, la quantité de titres...).  Vous trouverez les principaux types d’ordre de Bourse dans cet article.
+Les ordres de bourse sont des instructions communiquées par un investisseur ou par un intermédiaire financier (comme un courtier) qui, en fonction des informations reçues et de la situation du compte du client, procède à l’achat, ou à la vente d’un actif sur une place boursière. Un ordre de bourse doit comporter un certain nombre d'informations nécessaires et obligatoires à sa bonne exécution (le sens de l'opération, le nom de la valeur ou le code ISIN de la valeur, la quantité de titres...).  
 
 ## P <a name="P"></a>
 
@@ -259,11 +271,14 @@ Revenus provenant des locations immobilières de locaux nus.
 - **SCPI fiscales**  
 SCPI ouvrant droit aux mêmes avantages qu’un investissement en direct (ex: SCPI Scellier), excepté pour la SCPI de Robien, pour laquelle les acquéreurs amortissent leur investissement sur la base de 95 % et non de 100 %.
 
+- **SICAV (Société d'Investissement à Capital Variable)**  
+Portefeuille de valeurs mobilières détenu collectivement par des épargnants et géré par un établissement spécialisé. L’épargnant détient généralement une fraction de ce portefeuille.
+
 
 ## T <a name="T"></a>
 
 
-- **TAEG (Taux Annuel Effectif Global)**  
+- **TAEG (Taux Annuel Effectif Global)** <a name="TAEG"></a> (<img src="/img/usa.png" alt="drawing" style="width:16px;"/>: [APRC](#APRC))  
 Taux obligatoirement mentionné dans un contrat de crédit. Il prend en compte tout ce qui est dû par l’emprunteur au titre du prêt. Le TAEG calculé sur une base annuelle à remplacé le TEG (taux effectif global) calculé sur une base mensuelle pour tous les crédit à la consommation, ainsi que les crédit immobiliers.
 
 - **Taux d’endettement**  
@@ -303,7 +318,8 @@ Produits financiers dérivés spéculatifs, donnant le droit d’acheter (call w
 ## Y <a name="Y"></a>
 
 
-- **Yield** <a name="yield"></a> (<img src="/img/fr.png" alt="drawing" style="width:16px;"/>: [Rendement](#rendement))  
+- **Yield** <a name="yield"></a> (<img src="/img/fr.png" alt="drawing" style="width:16px;"/>: [Rendement](#rendement))   
+Mot anglais couramment utilisé dans l’univers de la finance et correspondant au terme français de [rendement](#rendement).
 
 
 ## Z <a name="Z"></a>
