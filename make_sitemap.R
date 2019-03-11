@@ -19,6 +19,8 @@ for(i in 1:length(dir("content/blog/"))) {
                      slice(1) %>%
                      select(V3) %>% unlist(), 
                    link = paste0("https://investastuces.com/blog/", 
+                                 as.Date(file.info(paste0("content/blog/", dir("content/blog")[1]))$mtime) %>% as.character() %>% strsplit(split="-") %>% lapply(., function(x) x[1]) %>% unlist(),
+                                 "/",
                                  unlist(strsplit(dir("content/blog/")[i], split=".md"))),
                    category = read.table(paste0("content/blog/", dir("content/blog/")[i]), fill=TRUE, 
                                          stringsAsFactors = FALSE) %>% filter(V1 == "categories", V2 == "=") %>% 
