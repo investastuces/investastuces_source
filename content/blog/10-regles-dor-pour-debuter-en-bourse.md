@@ -1,8 +1,8 @@
 +++
 title = "Mes 10 règles d’or pour débuter en Bourse"
 date = "2019-03-05"
-tags = ["actions", "regles-dor", "bourse"]
-categories = ["bourse/stocks"]
+tags = ["actions", "regles-dor", "bourse", "français"]
+categories = ["Bourse ~ Stocks"]
 banner = "img/banners/Bourse/Bourse dans journal.jpg"
 author = "Greg"
 +++

@@ -1,8 +1,8 @@
 +++
 title = "Le TAEG : le précieux outil de comparaison des offres de crédit"
 date = "2019-03-10"
-tags = ["TAEG", "crédit", "prêt", "simulateurs"]
-categories = ["immobilier/real-estate"]
+tags = ["TAEG", "crédit", "prêt", "simulateurs", "français"]
+categories = ["Immobilier ~ Real estate"]
 banner = "img/banners/Immobilier/Maison sous billet 10 euros.jpg"
 author = "Greg"
 +++
@@ -118,7 +118,7 @@ Ce petit comparatif nous montre deux choses:
 
 Ainsi, sauf à faire un calcul compliqué intégrant le capital emprunté, les intérêts et les frais de chaque crédit (calcul effectué dans l’avant dernière ligne du tableau), une comparaison simple et rapide s’avère impossible sans l’aide précieuse du TAEG. 
 
-**Le TAEG permet** d’un seul coup d’oeil de savoir quelle est l’offre de crédit la moins onéreuse et **d’éviter de tomber dans le piège classique qui veut qu’un taux d’intérêt nominal bas est forcément synonyme de coût global du crédit bas.**
+<b>Le TAEG permet</b> d’un seul coup d’oeil de savoir quelle est l’offre de crédit la moins onéreuse et <b>d’éviter de tomber dans le piège classique qui veut qu’un taux d’intérêt nominal bas est forcément synonyme de coût global du crédit bas.</b>
 <br>
 <br>
 

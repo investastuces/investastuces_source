@@ -9,13 +9,22 @@
 
     <div class="panel-body">
         <ul class="nav nav-pills nav-stacked">
-            {{ range $name, $items := .Site.Taxonomies.categories }}
-            <li><a href="{{ $.Site.BaseURL }}categories/{{ $name | urlize | lower }}">{{ $name }} ({{ len $items }})</a>
-            </li>
-            {{ end }}
-        </ul>
-    </div>
-</div>
-{{ end }}
-{{ end }}
-{{ end }}
+ <!--         {{ range $name, $items := .Site.Taxonomies.categories }}
+            <li><a href="{{ $.Site.BaseURL }}categories/{{ $name | urlize | lower }}">{{ $name }} ({{ len $items }})</a>   
+            </li>  
+            {{ end }} -->
+
+ {{ range where .Site.Pages "Type" "categories" }}
+    {{ if not (eq (.Title) "Categories") }}
+      <li><a href="{{ $.Site.BaseURL }}categories/{{ .Title | urlize | lower }}"> {{ .Title }} </a>
+      </li>
+    {{ end }}
+    {{ end }}
+    
+        </ul> 
+    </div> 
+</div> 
+{{ end }} 
+{{ end }} 
+{{ end }} 
+ 
