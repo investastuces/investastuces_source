@@ -31,10 +31,23 @@ Trop souvent les banques montrent des publicité alléchantes vantant un taux pr
 <br>
 <br>
 
-#### Attention! 
 
-- **Les frais de notaires ou les frais d’agence immobilière (si vous achetez par ce biais) ne sont pas intégrés à dessin** ([1° de l’article R. 314-5 du code de la consommation](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006069565&idArticle=LEGIARTI000032807612)), car ces frais ne sont pas rattachés au coût du crédit, mais bien au logement lui-même. En effet, si vous avez les ressources nécessaires pour acheter votre logement sans emprunter à la banque, les frais de notaires ou les frais d’agence sont tout de même à régler, au contraire bien évidemment des coûts liés au crédit listé ci-dessus.
-- Sont également exclus tous les frais et pénalités résultant d’un fonctionnement anormal du prêt comme les pénalités de remboursement anticipé, les frais qui résulteraient des impayés ou encore de mainlevées de garanties... ([2° de l’article R. 314-5 du code de la consommation](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006069565&idArticle=LEGIARTI000032807612))
+<table class="hoverTable">
+<tr>
+</tr>
+<tr>
+<td> <img src="/img/Investastuces-warning.png" align="center" style="width:100px;" hspace="10"/>
+<td>  <b>Attention !</b>
+<br>
+&#9888; <bb>Les frais de notaires ou les frais d’agence immobilière (si vous achetez par ce biais) ne sont pas intégrés à dessin</b> (<a href="https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006069565&idArticle=LEGIARTI000032807612">1° de l’article R. 314-5 du code de la consommation</a>), car ces frais ne sont pas rattachés au coût du crédit, mais bien au logement lui-même. En effet, si vous avez les ressources nécessaires pour acheter votre logement sans emprunter à la banque, les frais de notaires ou les frais d’agence sont tout de même à régler, au contraire bien évidemment des coûts liés au crédit listé ci-dessus.
+<br>
+<br>
+&#9888; Sont également exclus tous les frais et pénalités résultant d’un fonctionnement anormal du prêt comme les pénalités de remboursement anticipé, les frais qui résulteraient des impayés ou encore de mainlevées de garanties (<a href="https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006069565&idArticle=LEGIARTI000032807612">2° de l’article R. 314-5 du code de la consommation</a>)...
+</tr>
+</table>
+<br>
+
+
 
 
 Le TAEG, qui a remplacé le taux effectif global (TEG) en septembre 2016, est le taux qui prend en compte la totalité des frais occasionnés par la souscription d'un prêt évoqué ci-dessus. Le TAEG est exprimé en pourcentage annuel de la somme empruntée et est le seul moyen qui permet de comparer efficacement et rapidement les offres des banques ou des courtiers.
@@ -43,7 +56,8 @@ En effet, les dénominations des frais bancaires, voire les frais eux-mêmes, n�
 <br>
 <br>
 
-#### La preuve par l’exemple
+<h4>La preuve par l’exemple</h4>
+
 Prenons trois exemples pour illustrer nos propos: 
 <br>
 <br>

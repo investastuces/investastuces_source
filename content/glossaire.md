@@ -208,7 +208,7 @@ Les ordres de bourse sont des instructions communiquées par un investisseur ou 
 ## P <a name="P"></a>
 
 
-- **PEA (Plan d’Épargne en Actions)**  
+- **PEA (Plan d’Épargne en Actions)**  <a name="PEA"></a>  
 Portefeuille de valeurs mobilières investi en actions françaises et européennes et permettant, dans la limite réglementaire, de bénéficier d’une exonération d’impôt sur le revenu sur l’ensemble des dividendes perçus et sur les plus-values réalisées, sous réserve de n’effectuer aucun retrait dans les 5 ans qui suivent l’ouverture du compte.
 
 - **PEL (Plan épargne logement)**  <a name="PEL"></a>  
