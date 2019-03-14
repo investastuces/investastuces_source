@@ -178,5 +178,5 @@ A l’heure où les placements sécurisés comme le livret A ou le PEL font perd
 - **Investir en Bourse est risqué: il ne faut donc jamais y placer toutes ces économies;**
 - **Investir en Bourse peut s’avérer complexe: il faut donc miser sur des entreprises que vous connaissez et que vous comprenez.**
 
-**Enfin dernier conseil avant de franchir le pas: vous devez comprendre le jargon des ordres de Bourse avant d’acheter votre première action.** En effet, il est important de comprendre les différents types d’ordres disponibles afin d’éviter des erreurs coûteuses en termes de frais de transaction. Je vous propose donc un petit article avec des exemples explicatifs ici.
+**Enfin dernier conseil avant de franchir le pas: vous devez comprendre le jargon des ordres de Bourse avant d’acheter votre première action.** En effet, il est important de comprendre les différents types d’ordres disponibles afin d’éviter des erreurs coûteuses en termes de frais de transaction. Je vous propose donc un petit article avec des exemples explicatifs [ici](https://investastuces.com/blog/2019/les-ordres-de-bourse).
 

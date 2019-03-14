@@ -202,8 +202,9 @@ Document réglementé par le droit bancaire et qui précise les obligations du p
 - **OPCVM (Organisme de Placement Collectif en Valeurs Mobilières)**  <a name="OPCVM"></a>  
 Structures qui permettent la gestion collective de fonds. Les fonds qui sont à leur disposition sont investis dans des valeurs mobilières. Ces valeurs mobilières donnent le même droit que des actions à son possesseur, c’est à dire qu’ils donnent une part du capital de la société émettrice. 
 
-- **Ordre de Bourse**  
-Les ordres de bourse sont des instructions communiquées par un investisseur ou par un intermédiaire financier (comme un courtier) qui, en fonction des informations reçues et de la situation du compte du client, procède à l’achat, ou à la vente d’un actif sur une place boursière. Un ordre de bourse doit comporter un certain nombre d'informations nécessaires et obligatoires à sa bonne exécution (le sens de l'opération, le nom de la valeur ou le code ISIN de la valeur, la quantité de titres...).  
+- **Ordre de Bourse** <a name="ordredebourse"></a>   
+Les ordres de bourse sont des instructions communiquées par un investisseur ou par un intermédiaire financier (comme un courtier) qui, en fonction des informations reçues et de la situation du compte du client, procède à l’achat, ou à la vente d’un actif sur une place boursière. Un ordre de bourse doit comporter un certain nombre d'informations nécessaires et obligatoires à sa bonne exécution (le sens de l'opération, le nom de la valeur ou le code ISIN de la valeur, la quantité de titres...).  Vous trouverez les principaux types d’ordre de Bourse dans [cet article](https://investastuces.com/blog/2019/les-ordres-de-bourse).
+
 
 ## P <a name="P"></a>
 
