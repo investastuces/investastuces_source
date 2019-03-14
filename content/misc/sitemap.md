@@ -1,12 +1,13 @@
 +++
 title = "Sitemap"
-date = 2019-03-12
+date = 2019-03-13
 +++
 
 
 - [Accueil / Homepage](https://investastuces.com)
 - [Blog](https://investastuces.com/blog)
     - Bourse
+        - [Les ordres de Bourse](https://investastuces.com/blog/2019/les-ordres-de-bourse)
         - [Mes 10 règles d’or pour débuter en Bourse](https://investastuces.com/blog/2019/10-regles-dor-pour-debuter-en-bourse)
     - Finance
         - [Le statut « US persons »: des contraintes pour vos finances personnelles](https://investastuces.com/blog/2019/statut-us-persons-contraintes-pour-finances-personnelles)
