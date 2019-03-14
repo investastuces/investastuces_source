@@ -113,9 +113,4 @@ Comprendre le principe et les conséquences des différents types d’ordre de B
 - <b>d’affiner sa stratégie d’investissement en Bourse (souhait d’acheter une action à tout prix ou de l’acheter à un prix fixé au préalable);</b>
 - <b>d’éviter de subir des pertes ou de profiter d’une séance haussière de la Bourse...</b>
 
-Notons enfin qu’à côté des 5 principaux types d’ordre définies ci-dessus il existe également des ordres dit “complexes ” appelés également “stratégiques” ou “tactiques”. 
-
-<br>
-##### Références  
-
-- Pour plus d’informations sur ce type d’ordre je vous invite à lire [cet article](https://www.bfmtv.com/pratique-finances-perso/bourse-quels-sont-les-ordres-tactiques-1494268.html).
+Notons enfin qu’à côté des 5 principaux types d’ordre définies ci-dessus il existe également des ordres dit “complexes ” appelés également “stratégiques” ou “tactiques”. Pour plus d’informations sur ce type d’ordre je vous invite à lire [cet article](https://www.bfmtv.com/pratique-finances-perso/bourse-quels-sont-les-ordres-tactiques-1494268.html).
