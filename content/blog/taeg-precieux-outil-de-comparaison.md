@@ -1,6 +1,6 @@
 +++
 title = "Le TAEG : le précieux outil de comparaison des offres de crédit"
-date = "2019-03-10"
+date = "2019-03-21"
 tags = ["TAEG", "crédit", "prêt", "simulateurs", "français"]
 categories = ["Immobilier ~ Real estate"]
 banner = "img/banners/Immobilier/Maison sous billet 10 euros.jpg"
@@ -43,6 +43,9 @@ Trop souvent les banques montrent des publicité alléchantes vantant un taux pr
 <br>
 <br>
 &#9888; Sont également exclus tous les frais et pénalités résultant d’un fonctionnement anormal du prêt comme les pénalités de remboursement anticipé, les frais qui résulteraient des impayés ou encore de mainlevées de garanties (<a href="https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006069565&idArticle=LEGIARTI000032807612">2° de l’article R. 314-5 du code de la consommation</a>)...
+<br>
+<br>
+&#9888; Si vous souhaitez externaliser certains frais comme l’assurance emprunteur ou la garantie cautionnement (délégation dans un autre établissement), le TAEG associé à votre offre de crédit communiqué par votre banque pourra être faussé, puisqu’il n’incluera pas nécessairement les frais faisant l’objet d’une délégation. 
 </tr>
 </table>
 <br>
@@ -126,9 +129,10 @@ Prenons trois exemples pour illustrer nos propos:
 <br>
 
 Ce petit comparatif nous montre deux choses:  
-
-- d’une part, malgré un taux nominal d’appel alléchant, le coût du crédit proposé par l’exemple 1 est le important des trois;  
-- d’autre part, c’est le crédit dont le taux nominal est le plus élevé, donc les mensualités hors frais les plus importantes, qui est en réalité le moins cher pour l’emprunteur sur l’ensemble de la durée du crédit. 
+<ul>
+<li> d’une part, malgré un taux nominal d’appel alléchant, le coût du crédit proposé par l’exemple 1 est le important des trois;  
+<li> d’autre part, c’est le crédit dont le taux nominal est le plus élevé, donc les mensualités hors frais les plus importantes, qui est en réalité le moins cher pour l’emprunteur sur l’ensemble de la durée du crédit. 
+</ul>
 
 Ainsi, sauf à faire un calcul compliqué intégrant le capital emprunté, les intérêts et les frais de chaque crédit (calcul effectué dans l’avant dernière ligne du tableau), une comparaison simple et rapide s’avère impossible sans l’aide précieuse du TAEG. 
 
@@ -144,7 +148,7 @@ Ainsi, sauf à faire un calcul compliqué intégrant le capital emprunté, les i
 <td>  <b>Astuce n°1</b>: Pour faire baisser (parfois considérablement) le montant global de votre crédit, pensez à externaliser l’assurance emprunteur dès le début du prêt ou à défaut au bout d’un an et si possible à garantir votre prêt par le mécanisme de la caution, plutôt qu’une hypothèque ou une inscription de privilège de prêteurs de deniers; 
  <br>
  <br>
-<b>Astuce n°2</b>: Utiliser le <a href="https://investastuces.com/simulateurs">simulateur de TAEG d’Invest Astuces</a> pour comparer plusieurs offres de prêt en y intégrant notamment les taux ou frais venant de différentes banques ou assurances. Par exemple : votre banque vous propose un taux nominal de 1 % et des frais de 500 €, mais vous voulez prendre l’assurance emprunteur et la caution chez la compagnie qui assure votre maison ou votre voiture. Le <a href="https://investastuces.com/simulateurs">simulateur d’Invest Astuces</a> calculera automatiquement votre TAEG et vous permettra de le comparer avec celui proposé par votre banque.
+<b>Astuce n°2</b>: Utiliser le <a href="https://investastuces.com/simulateurs">simulateur de TAEG d’Invest Astuces</a> pour comparer plusieurs offres de prêt en y intégrant notamment les taux ou frais venant de différentes banques ou assurances. Par exemple : votre banque vous propose un crédit immobilier ayant un taux nominal intéressant, mais vous voulez prendre l’assurance emprunteur et la caution chez la compagnie qui assure votre maison ou votre voiture. Le <a href="https://investastuces.com/simulateurs">simulateur d’Invest Astuces</a> calculera automatiquement votre TAEG et vous permettra de le comparer avec celui proposé par votre banque.
 </tr>
 </table>
 
@@ -156,7 +160,8 @@ Ainsi, sauf à faire un calcul compliqué intégrant le capital emprunté, les i
 - **N’oubliez jamais que le taux nominal bien qu’important, n’est pas suffisant pour connaître le coût réel de votre crédit;**
 - **Seul le TAEG vous permet de comparer rapidement et efficacement des offres de crédit qui parfois regroupent des frais qui n’ont rien à voir entres eux et/ou qui portent des dénominations différentes d’un établissement à l’autre;** 
 - **Mais attention, le TAEG ne permet une comparaison fiable qu’entre des offres ayant une durée et un capital emprunté identiques;**
-- **Notez néanmoins que le TAEG n’intègre pas les frais de notaire ou les frais d’agence immobilière, ainsi que les frais et pénalités résultant du fonctionnement anormal du crédit.**
+- **Attention également, le TAEG ne permet une comparaison fiable qu’entre des offres incluant l’ensemble des frais associés au crédit. Si certains frais font l’objet d’une délégation (assurance emprunteur, caution) le TAEG fourni pourra être faussé;**
+- **Notez enfin que le TAEG n’intègre pas les frais de notaire ou les frais d’agence immobilière, ainsi que les frais et pénalités résultant du fonctionnement anormal du crédit.**
 <br>
 <br>
 
