@@ -1,6 +1,6 @@
 +++
 title = "Sitemap"
-date = 2019-03-13
+date = 2019-03-24
 +++
 
 
@@ -13,6 +13,7 @@ date = 2019-03-13
         - [Le statut « US persons »: des contraintes pour vos finances personnelles](https://investastuces.com/blog/2019/statut-us-persons-contraintes-pour-finances-personnelles)
     - Immobilier
         - [Le TAEG : le précieux outil de comparaison des offres de crédit](https://investastuces.com/blog/2019/taeg-precieux-outil-de-comparaison)
+        - [Rachat vs renégociation vs ne rien faire: que choisir pour votre crédit immobilier ?](https://investastuces.com/blog/2019/renego-vs-rachat-credit)
 - [Simulateurs / Simulators](https://investastuces.com/simulateurs)
 - [Glossaire / Glossary](https://investastuces.com/glossaire)
 - [A propos / About](https://investastuces.com/a-propos)

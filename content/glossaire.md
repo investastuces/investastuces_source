@@ -44,6 +44,9 @@ Assurance temporaire, limitée à la durée du crédit, garantissant le rembours
 - **Avant-contrat**  
 Contrat qui fixe les conditions d'une vente. L'avant-contrat peut prendre la forme d'un compromis ou d'une promesse unilatérale de vente.
 
+- **Avenant**  <a name-"avenant"></a>   
+Acte complémentaire à un contrat initial. Il permet de modifier ou de compléter les clauses du contrat initial. En matière de crédit un avenant peut par exemple porter sur le taux ou la durée du crédit.
+
 
 ## B <a name="B"></a>
 
