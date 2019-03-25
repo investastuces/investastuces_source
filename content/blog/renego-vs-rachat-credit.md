@@ -1,13 +1,13 @@
 +++
 title = "Rachat vs renégociation vs ne rien faire: que choisir pour votre crédit immobilier ?"
-date = "2019-03-25T16:00:00+00:00"
+date = "2019-03-25T16:01:00+00:00"
 tags = ["crédit", "prêt", "français"]
 categories = ["Immobilier ~ Real estate"]
 banner = "img/banners/Immobilier/Petite maison en bois avec pile de pieces.jpg"
 author = "Greg"
 +++
 
-Avec des taux d'intérêt de crédit immobilier toujours aussi bas, 2019 va rester une excellente année pour renégocier ou effectuer un rachat de crédit immobilier pour d’anciens emprunteurs.  
+Avec des taux d'intérêt de crédit immobilier toujours aussi bas, 2019 va rester une excellente année pour renégocier ou effectuer un rachat de crédit immobilier pour d’anciens emprunteurs.   
 
 Si ces deux opérations ont des définitions juridiques bien précises, elles sont pourtant mal comprises, voire confondues. Par ailleurs, si généralement elles permettent de faire de larges économies, ces opérations peuvent également vous coûter très chères. 
 

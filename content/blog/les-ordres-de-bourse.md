@@ -1,6 +1,6 @@
 +++
 title = "Les ordres de Bourse"
-date = "2019-03-13"
+date = "2019-03-13T16:01:00+00:00"
 tags = ["actions", "bourse", "français"]
 categories = ["Bourse ~ Stocks"]
 banner = "img/banners/Bourse/Bourse de newyork.jpg"
