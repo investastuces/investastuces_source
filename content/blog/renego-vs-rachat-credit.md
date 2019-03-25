@@ -1,6 +1,6 @@
 +++
 title = "Rachat vs renégociation vs ne rien faire: que choisir pour votre crédit immobilier ?"
-date = "2019-03-25T16:01:00+00:00"
+date = "2019-03-25T15:58:00+00:00"
 tags = ["crédit", "prêt", "français"]
 categories = ["Immobilier ~ Real estate"]
 banner = "img/banners/Immobilier/Petite maison en bois avec pile de pieces.jpg"
