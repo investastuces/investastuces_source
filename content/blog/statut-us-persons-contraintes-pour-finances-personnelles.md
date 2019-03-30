@@ -1,6 +1,6 @@
 +++
 title = "Le statut « US persons »: des contraintes pour vos finances personnelles"
-date = "2019-03-12"
+date = "2019-03-12T23:00:00+00:00"
 tags = ["USA", "français", "FATCA", "expat"]
 categories = ["Finance Perso ~ Personal Finance"]
 banner = "img/banners/Placements/Calculatrice carnet et dollars.jpg"
