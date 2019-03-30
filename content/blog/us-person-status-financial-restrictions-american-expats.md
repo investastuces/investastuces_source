@@ -1,6 +1,6 @@
 +++
 title = "'US person' status: financial restrictions for American expatriates in France"
-date = "2019-03-29"
+date = "2019-03-29T19:00:00+00:00"
 tags = ["USA", "English", "FATCA", "expat"]
 categories = ["Finance Perso ~ Personal Finance"]
 banner = "img/banners/Placements/Bocal renverse rempli de pieces.jpg"
