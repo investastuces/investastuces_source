@@ -1,7 +1,7 @@
 +++
 title = "A primer on French stock market orders"
 date = "2019-04-08T17:00:00+00:00"
-tags = ["English", "Stocks", "France"]
+tags = ["English", "Stocks", "Expat", "Bourse"]
 categories = ["Bourse ~ Stocks"]
 banner = "img/banners/Bourse/Graphique bourse.jpg"
 author = "Greg & Andrea"
