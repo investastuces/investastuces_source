@@ -1,12 +1,13 @@
 +++
 title = "Sitemap"
-date = 2019-03-29
+date = 2019-04-08
 +++
 
 
 - [Accueil / Homepage](https://investastuces.com)
 - [Blog](https://investastuces.com/blog)
     - Bourse
+        - [A primer on French stock market orders](https://investastuces.com/blog/2019/primer-on-french-stock-market-orders)
         - [Les ordres de Bourse](https://investastuces.com/blog/2019/les-ordres-de-bourse)
         - [Mes 10 règles d’or pour débuter en Bourse](https://investastuces.com/blog/2019/10-regles-dor-pour-debuter-en-bourse)
     - Finance

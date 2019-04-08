@@ -66,6 +66,27 @@ Bénéfices réalisés par des personnes physiques, des entreprises individuelle
 - **CAC 40 (Cotation Assistée en Continu)**   
 Indice calculé à partir d'un échantillon de 40 valeurs cotées sur la Bourse de Paris Euronext et choisies en fonction de critères multiples (capitalisation, liquidité et diversification sectorielle).
 
+<ul>
+<li> <b>Carnet d’ordres (Bourse)</b> <a name="carnetdordres"></a> (<img src="/img/usa.png" alt="drawing" style="width:16px;"/>: <a href="https://investastuces.com/glossaire/#orderbook">Order book</a>)
+<br>
+Recueil sur lequel s’affichent tous les ordres d'achat et de vente d’un titre (une action, par exemple). Le carnet d’ordres est divisé en deux grands blocs : 
+<ul>
+    <li> d’un côté les achats, où l’on trouve le prix que les investisseurs sont prêts à payer pour acquérir un titre ;  </li>
+    <li> de l’autre, les ordres de vente, qui permettent de connaître le prix auquel d’autres investisseurs souhaitent céder ce titre.  </li>
+    </ul>
+Ces deux blocs sont eux-mêmes divisées en trois colonnes. Celles-ci apportent davantage d’informations sur la confrontation de l’offre et de la demande en précisant :  
+<ul>
+    <li>les 5 meilleures offres (vente) ;</li>
+    <li> les 5 meilleures demandes (achat) ;</li>
+    <li> les cours proposés ;</li>
+    <li> le nombre de titres de chaque ordre ;</li>
+    <li> le nombre d’ordres proposés à un prix donné.</li>
+  </ul>
+Le carnet d’ordres d’une action est accessible sur les différents sites spécialisés dans la Bourse.
+</li>
+</ul>
+
+
 - **Caution**  
 Engagement par lequel un tiers accepte de garantir le paiement d'une dette d'une autre personne.
 
@@ -80,6 +101,16 @@ S'applique sur les revenus et les plus-values qui y sont assujettis, notamment 8
 
 - **Deduction** <a name="deduction"></a> (<img src="/img/fr.png" alt="drawing" style="width:16px;"/>: [Abattement](#abattement))   
 Any item or expenditure subtracted from gross income to reduce the amount of income subject to income tax. It is also referred to as an "allowable deduction." 
+
+- **Dépenses contraintes**  
+Les dépenses contraintes, appelées aussi dépenses fixes ou dépenses pré-engagées, sont définies par l’INSEE comme étant "l’ensemble des dépenses des ménages réalisées dans le cadre d'un contrat difficilement renégociable à court terme." Elles sont [définies](https://www.insee.fr/fr/metadonnees/definition/c1358) comme suit : 
+    - dépenses liées au logement (y compris, dans le cas de la comptabilité nationale, les loyers imputés), ainsi que celles relatives à l'eau, au gaz, à l'électricité et aux autres combustibles utilisés dans les habitations ;  
+    - services de télécommunications ;  
+    - frais de cantine ;   
+    - services de télévision (redevance télévisuelle, abonnements à des chaînes payantes);  
+    - assurances (hors assurance-vie) ;  
+    - services financiers (y compris, dans le cas de la comptabilité nationale, les services d'intermédiation financière indirectement mesurés).  
+    
 
 - **Dépôt de garantie**  
 Somme versée en garantie par un locataire, appelée aussi caution par abus de langage. Il doit être restitué dans les deux mois suivant la restitution des clés par le locataire.
@@ -96,6 +127,9 @@ A down payment is a type of payment made in cash during the onset of the purchas
 
 ## E <a name="E"></a>
 
+
+- **Épargne de précaution**  
+Réserve d’argent immédiatement disponible en vue de pouvoir faire face aux dépenses imprévues sans toucher à l’épargne placée à long terme et sans contracter un crédit à la consommation ou personnel. Généralement, il est recommandé de conserver entre 3 et 6 mois de salaire d’épargne de précaution.
 
 
 ## F <a name="F"></a>
@@ -155,6 +189,13 @@ Clause permettant l’augmentation du loyer chaque année à la date anniversair
 - **Intérêts intercalaires**  
 Intérêts calculés entre le déblocage des fonds par le créancier et le début du remboursement effectif du prêt.
 
+- **ISIN (International Securities Identification Number)** <a name="ISIN"></a>  
+<img src="/img/fr.png" alt="drawing" style="width:16px;"/> L’ISIN ou code ISIN est un identifiant unique servant à désigner des valeurs mobilières (comme les titres d’une entreprise cotée en Bourse). Ce code est composé de douze caractères alphanumériques dont les deux premières lettres identifient le pays dans lequel la valeur a été émise (FR pour les titres français, US pour les titres des Etats-Unis, CH pour les titres suisses, DE pour les titres allemands, etc.). Ce code est indispensable pour la passation d’un ordre de Bourse. Une simple requête dans un moteur de recherche internet permet de trouver le code ISIN d’une entreprise.
+Par exemple, le code ISIN de Peugeot SA est le FR0000121501.
+<br>
+<img src="/img/usa.png" alt="drawing" style="width:16px;"/>  The ISIN or ISIN code is a 12-character alphanumeric code that is the uniform identification of a security. The first two letters identify the country in which the security was issued (FR for French securities, US for US securities, CH for Swiss securities, DE for German securities, etc.). This code is essential for the execution of a stock market order. The ISIN code of a company can be found by a simple query in an internet search engine.
+For example, the Apple ISIN Code is US0378331005.
+
 
 ## J <a name="J"></a>
 
@@ -204,6 +245,10 @@ Document réglementé par le droit bancaire et qui précise les obligations du p
 
 - **OPCVM (Organisme de Placement Collectif en Valeurs Mobilières)**  <a name="OPCVM"></a>  
 Structures qui permettent la gestion collective de fonds. Les fonds qui sont à leur disposition sont investis dans des valeurs mobilières. Ces valeurs mobilières donnent le même droit que des actions à son possesseur, c’est à dire qu’ils donnent une part du capital de la société émettrice. 
+
+- **Order book (trading)** <a name="orderbook"></a> (<img src="/img/fr.png" alt="drawing" style="width:16px;"/>: [Carnet d'ordres](#carnetdordres))    
+An order book is an electronic list of buy and sell orders for a specific security or financial instrument organized by price level. An order book lists the number of shares being bid or offered at each price point, or market depth. Order books are used by almost every exchange for various assets including stocks, bonds, currencies, ... The order book of a share is accessible on websites specialized in the stock market.
+
 
 - **Ordre de Bourse** <a name="ordredebourse"></a>   
 Les ordres de bourse sont des instructions communiquées par un investisseur ou par un intermédiaire financier (comme un courtier) qui, en fonction des informations reçues et de la situation du compte du client, procède à l’achat, ou à la vente d’un actif sur une place boursière. Un ordre de bourse doit comporter un certain nombre d'informations nécessaires et obligatoires à sa bonne exécution (le sens de l'opération, le nom de la valeur ou le code ISIN de la valeur, la quantité de titres...).  Vous trouverez les principaux types d’ordre de Bourse dans [cet article](https://investastuces.com/blog/2019/les-ordres-de-bourse).
@@ -260,6 +305,14 @@ Revenu dont l’on jouit sa vie entière. Ainsi, sans autre qualification, un us
 
 - **Résidence principale**  
 Logement où le contribuable réside habituellement et effectivement avec sa famille et où se situe le centre de ses intérêts professionnels et matériels.
+
+- **Retraite par capitalisation**  
+Système de retraite qui fonctionne par l'accumulation d'un stock de capital par les travailleurs qui servira à financer les pensions de ces mêmes travailleurs devenus inactifs. La retraite de chaque travailleur est donc financé par l’argent qu’il aura pu accumuler tout au long de sa vie active. 
+
+
+- **Retraite par répartition**  
+Système de retraite où se sont les actifs qui payent par leurs cotisations les pensions des retraités actuels. L’argent prélevé finance donc directement et immédiatement les pensions des retraités.
+
 
 - **Revenus fonciers**  
 Revenus provenant des locations immobilières de locaux nus.
