@@ -102,7 +102,7 @@ S'applique sur les revenus et les plus-values qui y sont assujettis, notamment 8
 - **Deduction** <a name="deduction"></a> (<img src="/img/fr.png" alt="drawing" style="width:16px;"/>: [Abattement](#abattement))   
 Any item or expenditure subtracted from gross income to reduce the amount of income subject to income tax. It is also referred to as an "allowable deduction." 
 
-- **Dépenses contraintes**  
+- **Dépenses contraintes**  <a name="depensescontraintes"></a>   
 Les dépenses contraintes, appelées aussi dépenses fixes ou dépenses pré-engagées, sont définies par l’INSEE comme étant "l’ensemble des dépenses des ménages réalisées dans le cadre d'un contrat difficilement renégociable à court terme." Elles sont [définies](https://www.insee.fr/fr/metadonnees/definition/c1358) comme suit : 
     - dépenses liées au logement (y compris, dans le cas de la comptabilité nationale, les loyers imputés), ainsi que celles relatives à l'eau, au gaz, à l'électricité et aux autres combustibles utilisés dans les habitations ;  
     - services de télécommunications ;  
@@ -128,7 +128,7 @@ A down payment is a type of payment made in cash during the onset of the purchas
 ## E <a name="E"></a>
 
 
-- **Épargne de précaution**  
+- **Épargne de précaution** <a name="epargnedeprecaution"></a>   
 Réserve d’argent immédiatement disponible en vue de pouvoir faire face aux dépenses imprévues sans toucher à l’épargne placée à long terme et sans contracter un crédit à la consommation ou personnel. Généralement, il est recommandé de conserver entre 3 et 6 mois de salaire d’épargne de précaution.
 
 
@@ -310,7 +310,7 @@ Logement où le contribuable réside habituellement et effectivement avec sa fam
 Système de retraite qui fonctionne par l'accumulation d'un stock de capital par les travailleurs qui servira à financer les pensions de ces mêmes travailleurs devenus inactifs. La retraite de chaque travailleur est donc financé par l’argent qu’il aura pu accumuler tout au long de sa vie active. 
 
 
-- **Retraite par répartition**  
+- **Retraite par répartition**  <a name="retraiteparrepartition"></a>     
 Système de retraite où se sont les actifs qui payent par leurs cotisations les pensions des retraités actuels. L’argent prélevé finance donc directement et immédiatement les pensions des retraités.
 
 

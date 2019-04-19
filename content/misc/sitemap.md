@@ -1,6 +1,6 @@
 +++
 title = "Sitemap"
-date = 2019-04-08
+date = 2019-04-18
 +++
 
 
@@ -13,6 +13,7 @@ date = 2019-04-08
     - Finance
         - ['US person' status: financial restrictions for American expatriates in France](https://investastuces.com/blog/2019/us-person-status-financial-restrictions-american-expats)
         - [Le statut « US persons »: des contraintes pour vos finances personnelles](https://investastuces.com/blog/2019/statut-us-persons-contraintes-pour-finances-personnelles)
+        - [Six astuces pour devenir financièrement indépendant](https://investastuces.com/blog/2019/six-astuces-pour-devenir-financierement-independant)
     - Immobilier
         - [Le TAEG : le précieux outil de comparaison des offres de crédit](https://investastuces.com/blog/2019/taeg-precieux-outil-de-comparaison)
         - [Rachat vs renégociation vs ne rien faire: que choisir pour votre crédit immobilier ?](https://investastuces.com/blog/2019/renego-vs-rachat-credit)
