@@ -1,12 +1,13 @@
 +++
 title = "Sitemap"
-date = 2019-04-18
+date = 2019-05-01
 +++
 
 
 - [Accueil / Homepage](https://investastuces.com)
 - [Blog](https://investastuces.com/blog)
     - Bourse
+        - [10 golden rules for beginner trading on the stock exchange](https://investastuces.com/blog/2019/10-golden-rules-for-beginner-trading-in-stocks)
         - [A primer on French stock market orders](https://investastuces.com/blog/2019/primer-on-french-stock-market-orders)
         - [Les ordres de Bourse](https://investastuces.com/blog/2019/les-ordres-de-bourse)
         - [Mes 10 règles d’or pour débuter en Bourse](https://investastuces.com/blog/2019/10-regles-dor-pour-debuter-en-bourse)

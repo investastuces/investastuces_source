@@ -173,7 +173,7 @@ Votre pression artérielle vous remerciera !!
 <br>
 
 #### A retenir 
-A l’heure où les placements sécurisés comme le livret A ou le PEL font perdre de l’argent aux épargnants à cause de taux d'intérêt plus faibles que l’inflation, placer son argent en Bourse peut s’avérer judicieux. Il est néanmoins nécessaire d’appliquer les deux principales règles de prudence à savoir : 
+A l’heure où les placements sécurisés comme le livret A ou le LEP font perdre de l’argent aux épargnants à cause de taux d'intérêt plus faibles que l’inflation, placer son argent en Bourse peut s’avérer judicieux. Il est néanmoins nécessaire d’appliquer les deux principales règles de prudence à savoir : 
 
 - **Investir en Bourse est risqué: il ne faut donc jamais y placer toutes ces économies;**
 - **Investir en Bourse peut s’avérer complexe: il faut donc miser sur des entreprises que vous connaissez et que vous comprenez.**
